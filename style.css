@@ -80,6 +80,11 @@ body, html {
   height: calc(100vw / 2 - 40px);
   width: calc(100vw / 2 - 40px);
   margin-bottom: 16px;
+  transition: all 0.15s ease;
+}
+
+.rakhi:active {
+  transform: scale3d(0.9, 0.9, 1);
 }
 
 .rakhi:nth-of-type(2n+1) {
