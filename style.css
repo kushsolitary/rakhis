@@ -183,8 +183,6 @@ h4 {
   text-transform: uppercase;
   text-decoration: none;
   border-radius: 0 0 3px 3px;
-  appearance: none;
-  -webkit-appearance: none;
 }
 
 .rakhi-info input, textarea {
@@ -197,6 +195,8 @@ h4 {
   margin: 16px;
   border: 1px solid #E6E6E6;
   border-radius: 2px;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
 textarea {
