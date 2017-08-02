@@ -205,3 +205,19 @@ textarea {
   padding: 16px;
   line-height: 1.4;
 }
+
+.contacts-input {
+  position: relative;
+}
+
+.contacts-input:after {
+  position: absolute;
+  content: '';
+  width: 20px;
+  height: 24px;
+  background: url(images/ic_contacts.png);
+  background-size: contain;
+  top: calc(50% - 12px);
+  right: 32px;
+  pointer-events: none;
+}
