@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="142px" viewBox="0 0 142 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="142" height="142" rx="6"></rect>
+        <ellipse id="path-3" cx="34.7713553" cy="34.8798234" rx="7.24137931" ry="7.15909091"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cards-copy" transform="translate(-186.000000, -538.000000)">
+            <g id="8" transform="translate(186.000000, 538.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F48923" xlink:href="#path-1"></use>
+                <g id="Group-8" mask="url(#mask-2)">
+                    <g transform="translate(-10.215827, 7.151079)">
+                        <path d="M157.323741,0 C134.01652,32.9521727 109.789277,53.0896115 84.6420127,60.4123165 C59.4947481,67.7350216 31.2807438,85.7366715 -1.42108547e-14,114.417266" id="Path-2" stroke="#FFBC00" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,6,6"></path>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(45.000000, 26.000000)">
+                            <rect id="Rectangle" fill="#633EA5" transform="translate(35.130241, 35.165958) rotate(16.000000) translate(-35.130241, -35.165958) " x="6.96932109" y="7.32504905" width="56.3218391" height="55.6818182" rx="5.59999967"></rect>
+                            <rect id="Rectangle" fill="#FFBC00" transform="translate(35.130241, 35.165958) rotate(-300.000000) translate(-35.130241, -35.165958) " x="10.2424582" y="10.5609915" width="49.7755648" height="49.2099334" rx="5.59999967"></rect>
+                            <rect id="Rectangle" fill="#EB3B8C" transform="translate(35.130241, 35.165958) rotate(-255.000000) translate(-35.130241, -35.165958) " x="20.3024949" y="20.5067096" width="29.6554914" height="29.3184972" rx="3.99999976"></rect>
+                            <rect id="Rectangle" fill="#EB3B8C" transform="translate(35.130241, 35.165958) rotate(-210.000000) translate(-35.130241, -35.165958) " x="20.3024949" y="20.5067096" width="29.6554914" height="29.3184972" rx="3.99999976"></rect>
+                            <g id="Oval-3">
+                                <use fill="#FFBC00" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <ellipse stroke="#54348C" stroke-width="3.99999976" cx="34.7713553" cy="34.8798234" rx="9.24137919" ry="9.15909079"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
