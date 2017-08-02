@@ -202,5 +202,6 @@ h4 {
 
 textarea {
   height: 96px;
+  padding: 16px;
   line-height: 1.4;
 }
